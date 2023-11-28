@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\bin\Debug\net7.0\Listearray.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\bin\Debug\net7.0\Listearray.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\bin\Debug\net7.0\Listearray.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\bin\Debug\net7.0\Listearray.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\bin\Debug\net7.0\Listearray.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\obj\Debug\net7.0\Listearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\obj\Debug\net7.0\Listearray.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\obj\Debug\net7.0\Listearray.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\obj\Debug\net7.0\Listearray.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\obj\Debug\net7.0\Listearray.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\obj\Debug\net7.0\refint\Listearray.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\obj\Debug\net7.0\Listearray.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\obj\Debug\net7.0\Listearray.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Listearray\obj\Debug\net7.0\ref\Listearray.dll
